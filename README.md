@@ -1,7 +1,7 @@
-# kmboxBpro Bypass Ace OCT Firmware
+# kmboxBpro Bypass Firmware
 
 ## Overview
-Welcome to the **kmboxBpro Bypass Ace OCT** firmware repository. This firmware is designed to bypass detection in various games, providing seamless performance while ensuring security. Our team is committed to keeping this firmware up-to-date with the latest detection evasion techniques, making it a reliable solution for a wide range of gaming environments.
+Welcome to the **kmboxBpro Bypass** firmware repository. This firmware is designed to bypass detection in various games, providing seamless performance while ensuring security. Our team is committed to keeping this firmware up-to-date with the latest detection evasion techniques, making it a reliable solution for a wide range of gaming environments.
 
 ## Features
 - **Bypass Detection**: Effectively circumvents detection in many popular games.
